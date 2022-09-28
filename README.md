@@ -15,3 +15,6 @@ poo-2022-2-ac-01-teameliveltonmurilo created by GitHub Classroom
 
 ## 7 - O programa não compila, e acusa um erro de sintaxe:
 ![image](https://user-images.githubusercontent.com/105663942/192867213-0d1f118d-eb24-4b40-9584-d6a3bdf896e2.png)
+
+## 8 - O programa compila mas acusa um erro na hora da execução dizendo que não pôde encontrar ou carregar a classe com o nome do arquivo:
+![image](https://user-images.githubusercontent.com/105663942/192867857-8196136f-ad65-4bef-8280-764b4ccf7a16.png)
