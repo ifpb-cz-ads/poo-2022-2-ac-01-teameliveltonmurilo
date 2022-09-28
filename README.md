@@ -9,3 +9,7 @@ poo-2022-2-ac-01-teameliveltonmurilo created by GitHub Classroom
 
 ## 4 - Na hora da execução, a saída do programa acusa que não pôde achar ou carregar a classe main do programa "PrimeiroPrograma":
 ![image](https://user-images.githubusercontent.com/105663942/192862153-e632e130-2010-4d28-8e10-ff97e088f22b.png)
+
+## 5 - Na hora da execução, o programa diz que o método main não foi encontrado na classe "PrimeiroPrograma", e pede para ser definido o método main como: ```public static void main(String[] args)```
+![image](https://user-images.githubusercontent.com/105663496/192863662-94b79247-5555-43ec-a642-6c96abdcf329.png)
+
